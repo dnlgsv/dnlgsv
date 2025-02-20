@@ -42,4 +42,4 @@ Passionate about AI, automation, and making data science accessible.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dnlgsv/dnlgsv/output/snake.svg" alt="Snake animation" />
